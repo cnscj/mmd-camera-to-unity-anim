@@ -35,18 +35,18 @@ sysinfo.txt
 *.unitypackage
 
 # Unity3D Ignore
-mmd_camera_to_unity_anim/Library
-mmd_camera_to_unity_anim/Logs
-mmd_camera_to_unity_anim/Temp
-mmd_camera_to_unity_anim/ProjectSettings
-mmd_camera_to_unity_anim/UserSettings
-mmd_camera_to_unity_anim/obj
-mmd_camera_to_unity_anim/.history
-mmd_camera_to_unity_anim/.vs
+mmd-camera-to-unity-anim/Library
+mmd-camera-to-unity-anim/Logs
+mmd-camera-to-unity-anim/Temp
+mmd-camera-to-unity-anim/ProjectSettings
+mmd-camera-to-unity-anim/UserSettings
+mmd-camera-to-unity-anim/obj
+mmd-camera-to-unity-anim/.history
+mmd-camera-to-unity-anim/.vs
 
-mmd_camera_to_unity_anim/Assets/Z_Test
-mmd_camera_to_unity_anim/Assets/Z_Test.meta
+mmd-camera-to-unity-anim/Assets/Z_Test
+mmd-camera-to-unity-anim/Assets/Z_Test.meta
 
 ProjectVersion.txt
-mmd_camera_to_unity_anim/Packages
+mmd-camera-to-unity-anim/Packages
 .vsconfig
